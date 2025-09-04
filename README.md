@@ -2,7 +2,7 @@
 
 A dynamic multi-agent simulation where autonomous agents with distinct roles work together to gather resources, construct buildings, and develop a small civilization from scratch. The project is built in Python using `tkinter` for the graphical user interface.
 
-![Project Screenshot](<.\AI Agent World\{9C5483C8-1399-4B13-B67F-A7B47207DD47}.png>)
+![Project Screenshot](./assets/simulation_screenshot.png)
 
 ## About The Project
 
